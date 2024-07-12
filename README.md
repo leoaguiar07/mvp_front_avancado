@@ -9,6 +9,7 @@
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#como-executar-o-projeto">Como executar</a> • 
  <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#protótipo-figma">Protótipo (Figma)</a> •  
  <a href="#autor">Autor</a> • 
  <a href="#licença">Licença</a>
 </p>
@@ -64,7 +65,6 @@ Abra o [http://localhost:3000/#/](http://localhost:3000/#/) no navegador.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Frontend (A)**  
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,figma&perline=3)](https://skillicons.dev)
 
@@ -72,7 +72,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 
+##  Protótipo Figma
 
+-   Protótipo:  *[https://www.figma.com/design/0B1kaf7T95qP6CCJlSgb3i/Medcare?node-id=0-1&t=PQxPQ9tr661KFsS6-1](https://www.figma.com/design/0B1kaf7T95qP6CCJlSgb3i/Medcare?node-id=0-1&t=PQxPQ9tr661KFsS6-1)*
 ## Autor
 
  <img src="https://avatars.githubusercontent.com/u/131842850?v=4" alt="@leoaguiar07" size="100" height="100" width="100" data-view-component="true" class="avatar circle" style="border-radius: 50%;">
